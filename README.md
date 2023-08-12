@@ -12,11 +12,9 @@
 1. アプリを開き、startボタンを押します。
 2. 筋トレ時間の指定は右上から行います。
 3. スタートでタイマーを開始します。
-4. タイマーが０になると成果を見ることができます(この時音が鳴ります)。達成画面は筋トレ時間によって変わります。
-   
-   <img width="100" alt="スクリーンショット 2023-08-12 4 14 55" src="https://github.com/dongurikoko/kintoreApp/assets/108347471/38eba26a-3553-4b66-bf5e-df205bace6c7">
-   <img width="98" alt="スクリーンショット 2023-08-12 4 20 17" src="https://github.com/dongurikoko/kintoreApp/assets/108347471/932c4532-c638-416d-a155-356dc412527c">
-   <img width="95" alt="スクリーンショット 2023-08-12 4 16 32" src="https://github.com/dongurikoko/kintoreApp/assets/108347471/3f63a028-0eee-415c-b124-876ee5e4967e"><img width="103" alt="スクリーンショット 2023-08-12 4 24 16" src="https://github.com/dongurikoko/kintoreApp/assets/108347471/37341758-a506-4462-b21d-248e6b7407e4"><img width="100" alt="スクリーンショット 2023-08-12 4 26 49" src="https://github.com/dongurikoko/kintoreApp/assets/108347471/5645167f-1207-4568-870b-7d8fc6f37c00">
+4. タイマーが０になると成果を見ることができます(この時音が鳴ります)。達成画面は筋トレ時間によって変わります。  
+<img width="93" alt="kintore1" src="./kintore1.png"> <img width="92" alt="kintore3" src="./kintore3.png"> <img width="94" alt="kintore2" src="./kintore2.png"> <img width="95" alt="kintore4" src="./kintore4.png"> <img width="92" alt="kintore5" src="./kintore5.png">
+
 
 
 
