@@ -12,7 +12,7 @@
 1. アプリを開き、startボタンを押します。
 2. 筋トレ時間の指定は右上から行います。
 3. スタートでタイマーを開始します。
-4. タイマーが０になると成果を見ることができます(この時音が鳴ります)。達成画面は筋トレ時間によって変わります。  
+4. タイマーが０になると成果を見ることができます。達成画面は筋トレ時間によって変わります。  
 <img width="93" alt="kintore1" src="./kintore1.png"> <img width="92" alt="kintore3" src="./kintore3.png"> <img width="94" alt="kintore2" src="./kintore2.png"> <img width="95" alt="kintore4" src="./kintore4.png"> <img width="92" alt="kintore5" src="./kintore5.png">
 
 
